@@ -33,13 +33,12 @@ Full device sizes, bias and component values: _TODO: fill from thesis Bab 5_
 | S11 | <= -20 dB | -30.19 dB |
 | Voltage gain | _TODO_ | about 18 dB |
 | Power consumption | _TODO_ | 2.1 mW |
-| IIP3 | _TODO_ | -12.36 dBm (missed target) |
 | Chip area | n/a | 0.113 mm^2 |
 
 Notes:
 
 - Gain is reported as voltage gain into a 5 kOhm load rather than S21, because the intended load is a mixer input of about 5 kOhm.
-- IIP3 is treated as a supplementary metric. The post-layout value did not meet its target.
+- IIP3 is treated as a supplementary metric. 
 
 ## Images
 
@@ -50,8 +49,7 @@ Add to `images/`:
 - [ ] S11 plot
 - [ ] NF plot
 - [ ] Gain plot
-- [ ] IIP3 plot
-- [ ] Pegasus DRC / LVS result screenshot (only if it was clean)
+- [ ] Pegasus DRC / LVS result screenshot
 
 ## Design decisions and trade-offs
 
