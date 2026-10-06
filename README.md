@@ -13,7 +13,6 @@ I have no industry experience yet. These are academic projects, and none of them
 |---|---|---|---|
 | [LNA with PCSNIM](lna-pcsnim-ble/) | LNA | Low-power 45 nm CMOS LNA for a 2.4 GHz BLE receiver (undergraduate thesis) | Own design, schematic to post-layout |
 | [Transimpedance amplifier](tia-transimpedance-amplifier/) | TIA | Design, optimization and layout of a TIA | Own design, DRC/LVS clean |
-| [Receiver chain simulation](receiver-chain-simulation/) | System | 2.4 GHz receiver chain: LNA, mixer, baseband amp, oscillator | System-level simulation (Module 2) |
 | [Baseband amplifier and integration](baseband-amplifier-integration/) | Baseband amp | Op-amp based baseband amplifier and integration with mixer and LNA | Own baseband amp design (Module 4) |
 
 ## Tools
@@ -24,8 +23,7 @@ I have no industry experience yet. These are academic projects, and none of them
 
 ## Notes on scope
 
-- Blocks provided by the course (for example the LNA and mixer in the receiver modules) are labeled as such in each README. The LNA in `lna-pcsnim-ble` is my own thesis design.
-- Where a result missed its target, the README says so.
+- Blocks provided by the course (the mixer and LNA used in the baseband amplifier module) are labeled as such in that README. The LNA in `lna-pcsnim-ble` is my own thesis design.
 
 ## Contact
 
