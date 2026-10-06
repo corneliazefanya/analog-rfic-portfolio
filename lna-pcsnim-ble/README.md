@@ -50,10 +50,9 @@ Topology progression studied in the thesis: common-source, inductively degenerat
    
 ## References
 
-- Nguyen et al., 2004
-- B. Razavi, RF Microelectronics
-- Shaeffer and Lee, 1997
-- Bluetooth Core Specification 6.0
+1. K. Nguyen, C.-H. Kim, G.-J. Ihm, M.-S. Yang, and S.-G. Lee, "CMOS low-noise amplifier design optimization techniques," *IEEE Trans. Microw. Theory Techn.*, vol. 52, no. 5, pp. 1433–1442, May 2004.
+2. B. Razavi, *RF Microelectronics*, 2nd ed. Prentice Hall, 2011.
+3. Bluetooth SIG, *Bluetooth Core Specification*, Version 6.0, 2024.
 
 ## Not included
 
