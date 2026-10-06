@@ -42,9 +42,7 @@ Notes:
 
 ## Images
 
-Add to `images/`:
-
-- [ ] Schematic with sizes and bias visible
+- [ ] LNA Schematic
 - [ ] Layout screenshot
 - [ ] S11 plot
 - [ ] NF plot
