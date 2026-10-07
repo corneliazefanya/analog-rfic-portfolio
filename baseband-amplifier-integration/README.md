@@ -26,7 +26,7 @@ Both targets are checked on the mixer plus baseband amplifier configuration. The
 
 | Component | Value | Rationale |
 |---|---|---|
-| R0, R1 | 6.5 kΩ | Matched to the single balanced mixer input resistance to maximize signal transfer |
+| R0, R1 | 6.5 kΩ | Matched to the single balanced mixer to maximize signal transfer |
 | R2 to R5 | 130 kΩ | Set so the amplifier supplies the gain still missing after the preceding stage (the report cites a 10 to 15 dB shortfall against the target) |
 | M1, M2 capacitors | 265.688 fF | Found by iterative optimization: values were simulated repeatedly until the bandwidth target was met while keeping the gain |
 
