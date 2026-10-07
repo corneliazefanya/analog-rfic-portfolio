@@ -74,7 +74,7 @@ Five variables were optimized: LF, LR1 and LR2 (length parameters, in µm) and N
 | NF1 | 16 | 10 |
 | NF2 | 4 | 10 |
 
-The final values were chosen to keep the finger count moderate and the resistors small while still meeting every specification.
+The final values were chosen to keep the finger count moderate and the resistor sizes as small as possible while still meeting every specification.
 
 Effect of increasing each variable (from theory and simulation):
 
