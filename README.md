@@ -1,4 +1,4 @@
-# Analog / RF IC Design Portfolio
+# Analog and RF IC Design Portfolio
 
 Cornelia, B.Eng. Electrical Engineering, Universitas Gadjah Mada (UGM).
 Focus: RF / analog IC design.
