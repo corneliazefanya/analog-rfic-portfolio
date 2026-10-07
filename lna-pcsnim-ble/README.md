@@ -60,7 +60,7 @@ NF, S11, gain and power all meet their targets. IIP3 was treated as a supplement
 
 <img src="images/s11-postlayout.png" width="600" alt="Post-layout S11">
 
-*Figure 3. Post-layout S11 (−30.19 dB at 2.4 GHz).*
+*Figure 3. Post-layout S11 (−30.19 dB at 2.4 GHz). The S11 minimum (−39.91 dB) lies at 2.42 GHz, so the match is narrow and 2.4 GHz sits on its lower edge.*
 
 <img src="images/nf-postlayout.png" width="600" alt="Post-layout noise figure">
 
